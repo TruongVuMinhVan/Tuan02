@@ -2,7 +2,6 @@ public class Rabbit {
     private String name;
     private int age;
     private String color;
-
 }
 public class Tiger {
     private String name;
