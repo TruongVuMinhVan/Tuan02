@@ -3,21 +3,18 @@ public class Rabbit {
     private int age;
     private String color;
 
-    // Constructors, getters, setters, and other methods go here
 }
 public class Tiger {
     private String name;
     private int age;
     private String habitat;
 
-    // Constructors, getters, setters, and other methods go here
 }
 public class Cow {
     private String name;
     private int age;
     private String breed;
 
-    // Constructors, getters, setters, and other methods go here
 }
 public class Main {
     public static void main(String[] args) {
@@ -26,7 +23,7 @@ public class Main {
         Tiger tiger = new Tiger();
         Cow cow = new Cow();
 
-        // Thiết lập thuộc tính cho mỗi đối tượng
+        //thuộc tính cho mỗi đối tượng
         rabbit.setName("Bunny");
         rabbit.setAge(2);
         rabbit.setColor("White");
@@ -39,7 +36,7 @@ public class Main {
         cow.setAge(3);
         cow.setBreed("Holstein");
 
-        // In ra thông tin của mỗi đối tượng
+        //thông tin của mỗi đối tượng
         System.out.println("Thông tin thỏ:");
         System.out.println("Tên: " + rabbit.getName());
         System.out.println("Tuổi: " + rabbit.getAge());
