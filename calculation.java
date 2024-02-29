@@ -2,7 +2,7 @@ package src;
 public class Calculation {
     private int a;
     private int b;
-
+    
     public Calculation(int a, int b) {
         this.a = a;
         this.b = b;
