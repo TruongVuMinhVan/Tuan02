@@ -27,9 +27,6 @@ public class Calculation {
 }
 package src;
 
-
-import com.sun.source.doctree.SummaryTree;
-
 public class main {
     public static void main(String[] args) {
 //        Calculation cal1 = new Calculation(5, 7);
