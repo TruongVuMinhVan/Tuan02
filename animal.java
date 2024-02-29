@@ -5,6 +5,13 @@ public class Rabbit {
 
     // Constructors, getters, setters, and other methods go here
 }
+public class Tiger {
+    private String name;
+    private int age;
+    private String habitat;
+
+    // Constructors, getters, setters, and other methods go here
+}
 public class Cow {
     private String name;
     private int age;
