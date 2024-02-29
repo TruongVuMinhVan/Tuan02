@@ -1,5 +1,4 @@
 package src;
-
 public class Calculation {
     private int a;
     private int b;
